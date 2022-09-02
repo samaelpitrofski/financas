@@ -23,4 +23,3 @@ https://www.canva.com/design/DAFKhees6iE/IDJJ4Z5KteQe92g8euOCUw/view?utm_content
 <div>
 <img src="https://media.discordapp.net/attachments/999734578195472397/1014967238828245002/E_nao-e_faz_nao-faz.png"/>
 </div>
-
